@@ -303,6 +303,11 @@ module.exports = function(webpackEnv) {
           'react-dom$': 'react-dom/profiling',
           'scheduler/tracing': 'scheduler/tracing-profiling',
         }),
+        'components': paths.appComponents,
+        'pages': paths.appPages,
+        'router': paths.appRouter,
+        'service': paths.appService,
+        'utils': paths.appUtils,
         ...(modules.webpackAliases || {}),
       },
       plugins: [
@@ -387,6 +392,14 @@ module.exports = function(webpackEnv) {
                         },
                       },
                     },
+                  ],
+                  [
+                    "import", 
+                    {
+                      "libraryName": "antd",
+                      "libraryDirectory": "es",
+                      "style": "css" // `style: true` 会加载 less 文件
+                    }
                   ],
                 ],
                 // This is a feature of `babel-loader` for webpack (not Babel itself).
