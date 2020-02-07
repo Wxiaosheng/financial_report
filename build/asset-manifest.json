@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.57f82cb6.chunk.css",
-    "main.js": "/static/js/main.fd5e74c1.chunk.js",
-    "main.js.map": "/static/js/main.fd5e74c1.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.0d67b311.js",
-    "runtime-main.js.map": "/static/js/runtime-main.0d67b311.js.map",
-    "static/css/2.b19d5071.chunk.css": "/static/css/2.b19d5071.chunk.css",
-    "static/js/2.76c36037.chunk.js": "/static/js/2.76c36037.chunk.js",
-    "static/js/2.76c36037.chunk.js.map": "/static/js/2.76c36037.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.175959dcef2dd0b9eaa0971273905222.js": "/precache-manifest.175959dcef2dd0b9eaa0971273905222.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.b19d5071.chunk.css.map": "/static/css/2.b19d5071.chunk.css.map",
-    "static/css/main.57f82cb6.chunk.css.map": "/static/css/main.57f82cb6.chunk.css.map",
-    "static/js/2.76c36037.chunk.js.LICENSE.txt": "/static/js/2.76c36037.chunk.js.LICENSE.txt"
+    "main.css": "/financial_report_admin/static/css/main.57f82cb6.chunk.css",
+    "main.js": "/financial_report_admin/static/js/main.aba4f825.chunk.js",
+    "main.js.map": "/financial_report_admin/static/js/main.aba4f825.chunk.js.map",
+    "runtime-main.js": "/financial_report_admin/static/js/runtime-main.b1245b71.js",
+    "runtime-main.js.map": "/financial_report_admin/static/js/runtime-main.b1245b71.js.map",
+    "static/css/2.b19d5071.chunk.css": "/financial_report_admin/static/css/2.b19d5071.chunk.css",
+    "static/js/2.3cdf480a.chunk.js": "/financial_report_admin/static/js/2.3cdf480a.chunk.js",
+    "static/js/2.3cdf480a.chunk.js.map": "/financial_report_admin/static/js/2.3cdf480a.chunk.js.map",
+    "index.html": "/financial_report_admin/index.html",
+    "precache-manifest.07da2792f69ad212b8146282c678ee7f.js": "/financial_report_admin/precache-manifest.07da2792f69ad212b8146282c678ee7f.js",
+    "service-worker.js": "/financial_report_admin/service-worker.js",
+    "static/css/2.b19d5071.chunk.css.map": "/financial_report_admin/static/css/2.b19d5071.chunk.css.map",
+    "static/css/main.57f82cb6.chunk.css.map": "/financial_report_admin/static/css/main.57f82cb6.chunk.css.map",
+    "static/js/2.3cdf480a.chunk.js.LICENSE.txt": "/financial_report_admin/static/js/2.3cdf480a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0d67b311.js",
+    "static/js/runtime-main.b1245b71.js",
     "static/css/2.b19d5071.chunk.css",
-    "static/js/2.76c36037.chunk.js",
+    "static/js/2.3cdf480a.chunk.js",
     "static/css/main.57f82cb6.chunk.css",
-    "static/js/main.fd5e74c1.chunk.js"
+    "static/js/main.aba4f825.chunk.js"
   ]
 }
